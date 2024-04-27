@@ -1,0 +1,9 @@
+{'parameter': 'ESR', 'value': '20', 'unit': 'mm'}
+{'parameter': 'ESR', 'value': '150', 'unit': 'g'}
+{'parameter': 'EGFR', 'value': '90', 'unit': 'ml'}
+{'parameter': 'EGFR', 'value': '90', 'unit': 'ml'}
+{'parameter': 'AST', 'value': '80', 'unit': 'g'}
+{'parameter': 'AST', 'value': '48', 'unit': 'g'}
+{'parameter': 'AST', 'value': '39', 'unit': 'g'}
+{'parameter': 'AST', 'value': '110', 'unit': 'mm'}
+{'parameter': 'LDH', 'value': '35', 'unit': 'g'}

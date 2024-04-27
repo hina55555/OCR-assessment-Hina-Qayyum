@@ -1,0 +1,2 @@
+{'parameter': 'ANDRO', 'value': '2', 'unit': 'm'}
+{'parameter': 'ANDRO', 'value': '7', 'unit': 'g'}
