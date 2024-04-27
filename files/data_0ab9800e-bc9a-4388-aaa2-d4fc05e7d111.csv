@@ -1,0 +1,5 @@
+token,pos,Abbreviation,dates
+10/12/2018,NUM,,"[datetime.datetime(2018, 12, 10, 0, 0)]"
+Date,PROPN,,[]
+Collected,VERB,,[]
+:,PUNCT,,[]
